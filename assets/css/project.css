@@ -19,6 +19,17 @@ body{
     border-radius: 5px;
 }
 
+.section-heading{
+    display: grid;
+    grid-template-columns: max-content auto;
+    align-items: center;
+    gap: 8px;
+}
+
+.section-heading img{
+    width: 40px;
+}
+
 .section-separator.is-style-dots:before {
     content: "\00b7 \00b7 \00b7 \00b7 \00b7 \00b7";
     color: fuchsia;
