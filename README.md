@@ -1,2 +1,3 @@
-# Return2Hack
+# Cryptoconverter
+
 Documentation to hackmole hackathon project
