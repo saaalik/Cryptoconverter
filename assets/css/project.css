@@ -57,6 +57,7 @@ body{
     border: solid 2px teal;
     color: teal;
     cursor: pointer;
+    text-decoration: unset;
 }
 
 .button:hover{
