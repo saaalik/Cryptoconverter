@@ -16,5 +16,5 @@ Our project is able to fetch the real time market value for these currencies and
 It is fast, easy to use and very much reliable.
 
 ## Screenshot
-<img src="assets/images/ss"/> 
+<img src="assets/images/ss.png"/> 
 
