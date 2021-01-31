@@ -7,6 +7,7 @@ body{
     text-align: center;
 }
 
+
 .avatar-image{
     width: 100px;
     border-radius: 50px;
@@ -57,7 +58,7 @@ body{
 }
 
 .buttons-container{
-    display: grid;
+    display: flex;
     justify-self: center;
     grid-gap: 20px;
     grid-template-columns: max-content;
